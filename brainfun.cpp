@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-using namespace std;
+using namespace std; 
 
 int main(){
 	char cells[30000] = {(char)0};
